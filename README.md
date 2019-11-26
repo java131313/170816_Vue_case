@@ -1,4 +1,4 @@
-# 启动Vue项目
+# 启动Vue项目 康晓宇学习vue
 ## 准备工作
   
     * Vue脚手架初始化项目： vue init webpack webpack-demo
