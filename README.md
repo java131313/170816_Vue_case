@@ -15,7 +15,7 @@
   * 引入第三方css库： bootstrap.css
   * 引入index.css
 ## 数据动态展现
-  * 初始化数据： app
+  * 初始化数据： appddd
   * 传递数据：
     - 标签属性的形式传递数据 :key=value
     - 接收数据的组件需要声明接收： props
