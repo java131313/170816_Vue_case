@@ -4,7 +4,7 @@
     * Vue脚手架初始化项目： vue init webpack webpack-demo
     * cd webpack-demo
     * npm install
-    * npm run dev
+    * npm run dev  (vue-cli2)
 ## 确认组件
   * app：应用主组件
   * add: 添加评论组件
